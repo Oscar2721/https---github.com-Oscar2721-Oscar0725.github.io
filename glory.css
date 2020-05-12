@@ -1,0 +1,66 @@
+ #one{
+	width: 250px;height: 100px;
+}
+#two{
+	width: 100px; height: 100px;float: right;
+}
+body{
+	background-image: url(https://game.gtimg.cn/images/yxzj/zlkdatasys/images/image/20180111/f8eb9ee5b985bad6e8ac4c2af77190cc.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+	color: black;
+}
+.W{
+	text-align: center;font-size: 30px;
+	overflow: hidden;
+
+}
+.W a{
+	padding: 15px;
+	margin: 30px;
+	text-decoration: none;
+}
+.W a:hover{
+    
+    color: white;
+}
+p.one{
+	font-size:30px;
+	background-color: black;
+	color: red;
+	border-width: 20px;
+}
+p.two{
+	font-size:30px;
+	color: black;
+	border-width: 20px;
+	text-align: center;
+}
+p.three{
+	font-size:30px;
+	color: black;
+	border-width: 20px;
+	text-align: center;
+}
+p.four{
+	font-size:30px;
+	color: black;
+	border-width: 20px;
+	text-align: center;
+}
+#S{
+	font-size: 40px;
+
+}
+#MS{
+	font-size: 30px;
+}
+#O{
+	color: yellow;font-size: 20px;
+}
+h2{
+	color:red;font-size: 40px;
+}

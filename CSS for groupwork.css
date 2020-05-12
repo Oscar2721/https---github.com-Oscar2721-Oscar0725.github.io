@@ -1,0 +1,76 @@
+body{
+    background-image: url(https://pic2.zhimg.com/v2-c688e9bf1e9a027309af2759a31c2c1b_1200x500.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 50px;
+    
+    font-family: Times new Roman;
+    font-size:30px;
+}
+.title{
+	color: #9547a8;
+
+}
+.intro{
+	color:darkgreen;
+	margin-left:320px;
+}
+.column1 {
+/*  float: left;*/
+  width: 35%;
+  margin: 30px;
+  height: 580px;
+  margin-left: 180px;
+  font-size: 30px;
+  padding-left:20px;
+  padding-right: 20px;
+  border-style:solid;
+  border-width: 5px;
+  border-color: #fac0f8; 
+}
+
+
+.row1:after {
+  content: "";
+  display: table;
+  clear: both;
+
+}
+.column2 {
+ 
+  width: 35%;
+  margin: 30px;
+  height: 630px;
+  margin-left: 180px;
+  font-size: 30px;
+  padding-left:20px;
+  padding-right: 20px;
+  border-style:solid;
+  border-width: 5px;
+  border-color: #fac0f8; 
+}
+
+
+.row2 :after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.W{
+  font-size: 30px;
+  overflow: hidden;
+
+}
+.W a{
+  padding: 5px;
+  margin: 10px;
+  text-decoration: none;
+}
+.W a:hover{
+    
+    color: white;
+}
+#H{
+  float: right;color: yellow;font-style: italic;
+}

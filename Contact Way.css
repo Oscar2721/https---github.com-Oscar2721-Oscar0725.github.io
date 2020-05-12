@@ -1,0 +1,48 @@
+.W{
+	text-align: center;font-size: 30px;
+	overflow: hidden;
+
+}
+.W a{
+	padding: 15px;
+	margin: 30px;
+	text-decoration: none;
+}
+.W a:hover{
+    
+    color: white;
+}
+body{
+	background-color: skyblue;
+	background-image: url(https://lh3.googleusercontent.com/proxy/xXZvJP6DS0fA0yHTezUQ1rQ2XfMPz0SGbHTtCGVfPPGoindfN2FKMa8VaC3I5HFN_9k4SFrWAL2jWjb96tPifXLrsrJkGa0KeMhiT_v66CfmCUQK_1CUik_C_ITY4GYO0gc);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.C{
+	text-align: center;font-size: 30px;padding: 15px;border-style: solid;margin: 200px;
+}
+input{
+	font-size: 20px;
+}
+#one{
+	float: right;
+}
+#two{
+	float: right;font-size: 30px;color: yellow;
+}
+button{
+	font-size: 20px;float: right;background-color: violet;
+}
+ul{
+	text-align: center;font-size: 35px;
+}
+li{
+	text-align: center;font-size: 20px;
+}
+#L{
+	border-style: double;
+}
+h1{
+	text-align: center;font-size: 50px;color: black;
+}

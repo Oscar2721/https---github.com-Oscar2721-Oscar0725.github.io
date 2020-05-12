@@ -1,0 +1,48 @@
+h1{
+	text-align: center;font-size: 50px;
+}
+
+#one{
+	text-align: center;font-size: 30px;color: red;
+}
+#two{
+	text-align: center;font-size: 30px;
+}
+body{
+	background-size: cover;
+	background-image: url(https://game.gtimg.cn/images/yxzj/m/m201606/cp/ec_icon_03.png);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+#three{
+	text-align: center;font-size: 30px;color: yellow;
+}
+#four{
+	text-align: center;font-size: 30px;color: skyblue;
+}
+#five{
+	text-align: center;font-size: 30px;color: orange;
+}
+#six{
+	text-align: center;font-size: 30px;color: lightgreen;
+}
+#L{
+	float: right;font-size: 30px;background-color: yellow;
+}
+#H{
+  font-size: 40px;text-align: center; background-color :none;  
+}
+.W{
+	text-align: center;font-size: 30px;
+	overflow: hidden;
+
+}
+.W a{
+	padding: 5px;
+	margin: 10px;
+	text-decoration: none;
+}
+.W a:hover{
+    
+    color: white;
+}
